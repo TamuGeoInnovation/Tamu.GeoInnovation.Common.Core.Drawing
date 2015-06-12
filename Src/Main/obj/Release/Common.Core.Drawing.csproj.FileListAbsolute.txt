@@ -1,0 +1,6 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Drawing\build\v1.1\bin\AnyCPU\release\USC.GISResearchLab.Common.Core.Drawing.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Drawing\src\obj\Release\USC.GISResearchLab.Common.Core.Drawing.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Drawing\src\obj\Release\Common.Core.Drawing.csprojResolveAssemblyReference.cache
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Drawing\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Drawing.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Drawing\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Drawing.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Drawing\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Drawing.dll
