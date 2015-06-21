@@ -1,2 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Drawing\Src\build\v1.1\bin\x86\release\Tamu.GeoInnovation.Common.Core.Drawing.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Drawing\Src\Main\obj\x86\Release\Tamu.GeoInnovation.Common.Core.Drawing.dll

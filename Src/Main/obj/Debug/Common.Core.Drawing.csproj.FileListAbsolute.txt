@@ -1,5 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Drawing\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Drawing.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Drawing\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Drawing.pdb
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Drawing\src\obj\Debug\USC.GISResearchLab.Common.Core.Drawing.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Drawing\src\obj\Debug\USC.GISResearchLab.Common.Core.Drawing.pdb
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Drawing\src\obj\Debug\Common.Core.Drawing.csprojResolveAssemblyReference.cache
