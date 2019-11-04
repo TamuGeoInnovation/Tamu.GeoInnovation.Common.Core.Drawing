@@ -57,7 +57,7 @@ namespace USC.GISResearchLab.Common.Core.Images
 
         public byte[] Create(byte[] rawData)
         {
-            Bitmap bitMap = (Bitmap) Bitmap.FromStream(new MemoryStream(rawData));
+            Bitmap bitMap = (Bitmap)Bitmap.FromStream(new MemoryStream(rawData));
             return Create(bitMap);
         }
 

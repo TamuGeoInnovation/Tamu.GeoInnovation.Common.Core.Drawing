@@ -56,6 +56,6 @@ namespace USC.GISResearchLab.Common.Core.Images
             imgInput.Dispose();
             bmpResized.Dispose();
             Buffer.Close();
-        } 
+        }
     }
 }
